@@ -9,12 +9,12 @@ A command-line application written in Bash that retrieves current weather data f
 
 ## Usage
 
-    chmod +x projekt.sh
-    ./projekt.sh --city "Poznań"
+    chmod +x my_meteo.sh
+    ./my_meteo.sh --city "Poznań"
 
 ## Example
 
-    $ ./projekt.sh --city "Kórnik"
+    $ ./my_meteo.sh --city "Kórnik"
 
     Poznań [12330] / 2024-09-26 09:27
 
